@@ -112,7 +112,7 @@ The application includes robust error handling for:
 
 ## Directory Structure
 
-.
+
 ├── chroma.db
 │   ├── chroma.cache
 │   ├── 125ea723-8903-4ccd-905b-3ef652a4d5d1
