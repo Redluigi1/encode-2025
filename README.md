@@ -98,13 +98,6 @@ streamlit run 1_Welcome.py
 - Ensure all required environment variables are set
 - Verify microphone permissions are granted to the application
 
-## File Structure
-
-- `VoiceAgent.py`: Main application file containing Streamlit interface and voice agent logic
-- `model.py`: Contains database models and interactions
-- `prompt.py`: Defines conversation prompts and templates
-- `functions.py`: Contains custom function definitions and mappings
-- `customer_id.txt`: Stores current customer ID for personalization
 
 
 ## Error Handling
