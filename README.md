@@ -72,13 +72,10 @@ The application uses several configuration settings that can be modified:
 ```bash
 streamlit run 1_Welcome.py
 ```
-3. The application will open in your default web browser
-4. Load customer lists and sales targets
-5. Allow microphone access when prompted
-6. Monitor and manage sales calls in real-time
-7. View conversation history and sales performance metrics
-8. Access customer purchase history and preferences
-9. Track successful sales and follow-up requirements
+3. You will see two options : Customer ID :(Enter 9999 for testing, or insert a valid Customer entry in the database and enter their Customer ID)
+4. Promt : You can enter the desired prompt for the LLM voice agent. Leaving it empty would default to the hard-coded prompt.
+5. After entering the Customer ID and prompt(optional), click the VoiceAgent tab to chat with the agent.
+6. You can also see and add entries in the MongoDB database.
 
 ### Sales Features
 
