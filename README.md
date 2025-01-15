@@ -70,7 +70,7 @@ The application uses several configuration settings that can be modified:
 
 2. Start the application:
 ```bash
-streamlit run main.py
+streamlit run 1_Welcome.py
 ```
 3. The application will open in your default web browser
 4. Load customer lists and sales targets
