@@ -105,3 +105,49 @@ The application includes robust error handling for:
 - API calls
 - Database operations
 - Function execution
+
+
+
+
+
+## Directory Tree
+
+.
+├── chroma.db
+│   ├── chroma.cache
+│   ├── 125ea723-8903-4ccd-905b-3ef652a4d5d1
+│   ├── 3545ad7d-0c62-429a-8aed-80d6442a1b2e
+│   ├── cbde1796-d7f9-4006-81ea-6b56acace068
+│   └── chroma.sqlite3
+├── env_name
+│   └── Scripts
+├── pyvenv.cfg
+├── images
+│   └── git_workflow.png
+├── pages
+│   ├── 2_VoiceAgent.py
+│   ├── 3_MongoDB_Dashboard.py
+│   └── 4_Data_Entry.py
+├── templates
+│   └── streams.xml
+├── .gitignore
+├── 1_Welcome.py
+├── azure_test_code.py
+├── BRANCH_AND_RELEASE_PROCESS.md
+├── chromadb_agent.py
+├── CODE_CONTRIBUTIONS_GUIDE.md
+├── CODE_OF_CONDUCT.md
+├── CONTRIBUTING.md
+├── customer_id.txt
+├── functions.py
+├── GITHUB_WORKFLOW.md
+├── LICENSE
+├── model.py
+├── mongo_forms_scheduler.py
+├── mongodb.py
+├── prompt.py
+├── README.md
+├── requirements.txt
+├── sync_chroma_with_mongo.py
+└── tempCodeRunnerFile.py
+
