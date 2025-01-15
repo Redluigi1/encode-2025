@@ -37,9 +37,9 @@ https://github.com/user-attachments/assets/13cf1a22-b8d3-4165-aa95-55834e6f105f
 The following API keys need to be set as environment variables:
 
 ```bash
-DEEPGRAM_API_KEY=your_deepgram_key
-OPENAI_API_KEY=your_openai_key
-MONGO_URL=your_mongodb_url
+DEEPGRAM_API_KEY= 
+OPENAI_API_KEY=
+GEMINI_API_KEY=
 ```
 
 ## Installation
