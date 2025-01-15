@@ -110,7 +110,7 @@ The application includes robust error handling for:
 
 
 
-## Directory Tree
+## Directory Structure
 
 .
 ├── chroma.db
@@ -150,4 +150,5 @@ The application includes robust error handling for:
 ├── requirements.txt
 ├── sync_chroma_with_mongo.py
 └── tempCodeRunnerFile.py
+
 
